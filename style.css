@@ -2,35 +2,29 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
 }
-
 header {
   background: #cff1f0;
   color: rgb(12, 10, 10);
   padding: 20px;
 }
-
 nav ul {
   display: flex;
   list-style: none;
   gap: 15px;
   padding: 0;
 }
-
 nav a {
   color: rgb(170, 157, 157);
   text-decoration: none;
 }
-
 main {
   padding: 20px;
 }
-
 #lista-projetos {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
 }
-
 .projeto {
   border: 10px solid #848ae4;
   padding: 10px;
